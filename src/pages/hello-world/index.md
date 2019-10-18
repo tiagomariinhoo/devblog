@@ -1,5 +1,5 @@
 ---
-title: Hello World
+title: Post Template!
 date: "2018-06-30"
 ---
 
