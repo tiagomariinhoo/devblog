@@ -7,7 +7,7 @@ module.exports = {
     description: userConfig.description,
     siteUrl: userConfig.siteUrl,
   },
-  pathPrefix: userConfig.pathPrefix,
+  pathPrefix: './tiagoblog',
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
