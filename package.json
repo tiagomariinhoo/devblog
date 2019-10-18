@@ -2,9 +2,9 @@
   "name": "devblog",
   "description": "GatsbyJS blog template for developers",
   "version": "2.0.0",
-  "author": "Ryan Fitzgerald <ryanfitzgeralddev@gmail.com>",
+  "author": "Tiago Marinho <tiago.marinho.797@gmail.com>",
   "bugs": {
-    "url": "https://github.com/ryanfitzgerald/devblog/issues"
+    "url": "https://github.com/tiagomariinhoo/devblog/issues"
   },
   "dependencies": {
     "gatsby": "^2.0.31",
