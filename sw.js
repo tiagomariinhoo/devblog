@@ -26,27 +26,27 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-781d77681f80448b3ea1.js"
+    "url": "webpack-runtime-f25b802dfe48024c56c3.js"
   },
   {
-    "url": "app-016bc27c55754d06d91e.js"
+    "url": "app-760c462b0a728fc001ac.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-70fa0028ee7496e8897a.js"
   },
   {
     "url": "index.html",
-    "revision": "b6bed6c5932dd3b96a163cb779a163b2"
+    "revision": "9d143729d39d99e6fc14e20e8ebb9a47"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "ec33274b7fb8831e7f7e4c9aeebb0a0c"
+    "revision": "3a82c1e7112c9c11fb966a5b739fafc1"
   },
   {
     "url": "1.714e789c58edc4d97d4f.css"
   },
   {
-    "url": "1-4dd96921d07b69e153a7.js"
+    "url": "1-a86c05ed8d88fa3e9780.js"
   },
   {
     "url": "component---src-templates-index-js-4701c8e2fbaebcc1776b.js"
@@ -55,8 +55,8 @@ self.__precacheManifest = [
     "url": "0-f1f0de21e635ea99a0cc.js"
   },
   {
-    "url": "static/d/344/path---index-6a9-Ny4Wb8wAJBDLOXGHzKVTTxZ48Y.json",
-    "revision": "9e75d78fc7e51d38212818ea6bac72c6"
+    "url": "static/d/585/path---index-6a9-Kp8g88TIdZg1pof4PD3S5XDgokg.json",
+    "revision": "5672ec191b2bdbf35adb40998a780016"
   },
   {
     "url": "component---src-pages-404-js-73aa4ee436ca34094f3e.js"
@@ -77,7 +77,7 @@ self.__precacheManifest = [
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/tiagoblog/offline-plugin-app-shell-fallback/index.html", {
+workbox.routing.registerNavigationRoute("/./tiagoblog/offline-plugin-app-shell-fallback/index.html", {
   whitelist: [/^[^?]*([^.?]{5}|\.html)(\?.*)?$/],
   blacklist: [/\?(.+&)?no-cache=1$/],
 });
