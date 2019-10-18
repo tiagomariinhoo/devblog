@@ -26,37 +26,37 @@ workbox.clientsClaim();
  */
 self.__precacheManifest = [
   {
-    "url": "webpack-runtime-b733c39f64358f6f3293.js"
+    "url": "webpack-runtime-b43970e0300aa15cd99a.js"
   },
   {
-    "url": "app-760c462b0a728fc001ac.js"
+    "url": "app-f6a5c5e6ef84bcb08fc9.js"
   },
   {
     "url": "component---node-modules-gatsby-plugin-offline-app-shell-js-70fa0028ee7496e8897a.js"
   },
   {
     "url": "index.html",
-    "revision": "83857a0283b03145c5b10af350837efa"
+    "revision": "1b310a21476bcf7c314c2e68f02fede6"
   },
   {
     "url": "offline-plugin-app-shell-fallback/index.html",
-    "revision": "f7fe5a7f618f52606c27e03cf6a1c7d3"
+    "revision": "f54864626b01a9b04854fd6b068766ef"
   },
   {
     "url": "1.714e789c58edc4d97d4f.css"
   },
   {
-    "url": "1-a86c05ed8d88fa3e9780.js"
+    "url": "1-00dbcee7fd64aac7ac8b.js"
   },
   {
-    "url": "component---src-templates-index-js-9e8fb86e2e2556c84397.js"
+    "url": "component---src-templates-index-js-f22e64cffd667b32d4d9.js"
   },
   {
     "url": "0-f1f0de21e635ea99a0cc.js"
   },
   {
-    "url": "static/d/585/path---index-6a9-Kp8g88TIdZg1pof4PD3S5XDgokg.json",
-    "revision": "5672ec191b2bdbf35adb40998a780016"
+    "url": "static/d/338/path---index-6a9-nSw7naE1ec57Zgx2Stu8sQnVc.json",
+    "revision": "9d9d68eda8e6f40ab15360ed9f54e2d2"
   },
   {
     "url": "component---src-pages-404-js-73aa4ee436ca34094f3e.js"
@@ -71,13 +71,13 @@ self.__precacheManifest = [
   },
   {
     "url": "manifest.webmanifest",
-    "revision": "630225c8ef7a3e0604d6abc975531f04"
+    "revision": "44fe3d35b32791e5923b42ffc58bb7d0"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/./tiagoblog/offline-plugin-app-shell-fallback/index.html", {
+workbox.routing.registerNavigationRoute("/./devblog/offline-plugin-app-shell-fallback/index.html", {
   whitelist: [/^[^?]*([^.?]{5}|\.html)(\?.*)?$/],
   blacklist: [/\?(.+&)?no-cache=1$/],
 });
