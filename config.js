@@ -1,17 +1,17 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
-  description: 'Full-stack Web Developer',
+  title: 'Tiago Marinho', // Required
+  author: 'Tiago Marinho', // Required
+  description: 'Software Developer at EDGE',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
-    github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald',
+    website: '',
+    github: 'https://github.com/tiagomariinhoo',
+    twitter: '',
+    linkedin: 'https://linkedin.com/in/tiago-marinho-538821147/',
   },
   pathPrefix: '/devblog',
-  siteUrl: 'https://ryanfitzgerald.github.io/devblog/',
+  siteUrl: 'https://tiagomariinhoo.github.io/devblog/',
 };

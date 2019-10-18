@@ -1,10 +1,10 @@
 ---
-title: Welcome to the Blog!
-date: "2018-07-01"
+title: About my projects!
+date: "2019-10-17"
 featuredImage: './featured.jpg'
 ---
 
-Welcome to the new blog, I hope you enjoy your stay! This is an example of how you can control what excerpt shows up.
+In this post I will talk about some important projects that I have participated.
 
 <!-- end -->
 
