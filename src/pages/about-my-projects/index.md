@@ -11,13 +11,26 @@ In this post I will talk about some important projects that I have participated 
 
 In this project I was developing a smart application that analyzed users data and according to a decision tree (which was a database given by medical people), were given a diagnostic aid, showing whether the user tended to have diabetes or not.
 
-*   Morbi sit amet turpis a purus
-*   Etiam tempor ultricies mi
-    *   Maecenas auctor enim a volutpat mattis
-*   Sed urna justo, scelerisque consectetur pharetra vitae
+The technologias we used in this project were: Java ,XML, Firebase and SQLite, using Android Studio.
 
-Nam nec augue vel nisl placerat faucibus. Donec congue **nulla quis nunc** sagittis placerat. Pellentesque non tincidunt velit, cursus porttitor tellus. Suspendisse pulvinar tortor at _augue aliquam sagittis_. Duis non pulvinar augue. Ut tristique dignissim ligula, eget tempus diam molestie non. Nulla ultrices eleifend rutrum. Mauris convallis sollicitudin dui, pulvinar suscipit velit. Maecenas viverra finibus metus vitae blandit.
+This project brought me experience in Java and Android Studio, so I could use as a software developer on Edge today, the difference is that today, besides Java, I have also used a lot of Kotlin.
+
+Later I will update my github page with some repository showing some application screens
 
 ## Projects at EDGE
 
-##### Nulla nec dui vulputate, semper orci in, sagittis dolor
+## Personal projects
+
+Some projects that I consider important were developed by me and my friends during my journey as a Computer Science student at the Federal University of Alagoas.
+
+##### Pac Man using genetic algorithm
+
+We developed a pacman where every monster in the game had a genetic algorithm running on it, which increased the probability that ghosts would trap pacman.
+
+My repository with the Pacman project (in C++): https://github.com/tiagomariinhoo/Pacman-IA2
+
+##### Competitive Programming
+
+During my undergraduate degree I participated in the Computer Olympics and after that I participated four times in the Maratona de Programação, qualifying twice for the Brazilian finals. Competing against the best universities in the countrye, like ITA, USP, UFPE, among others.
+
+My repository about competitive programming (in C++): https://github.com/tiagomariinhoo/PAAlgoritmos

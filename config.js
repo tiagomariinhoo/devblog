@@ -12,6 +12,6 @@ module.exports = {
     twitter: '',
     linkedin: 'https://linkedin.com/in/tiago-marinho-538821147/',
   },
-  pathPrefix: '/devblog',
+  pathPrefix: '/tiagoblog',
   siteUrl: 'https://tiagomariinhoo.github.io/devblog/',
 };
