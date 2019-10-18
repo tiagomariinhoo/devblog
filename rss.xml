@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Tiago Marinho]]></title><description><![CDATA[Software Developer at EDGE]]></description><link>https://tiagomariinhoo.github.io/devblog/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 18 Oct 2019 02:32:24 GMT</lastBuildDate><item><title><![CDATA[Some projects and about me!]]></title><description><![CDATA[
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Tiago Marinho]]></title><description><![CDATA[Software Developer at EDGE]]></description><link>https://tiagomariinhoo.github.io/devblog/</link><generator>RSS for Node</generator><lastBuildDate>Fri, 18 Oct 2019 02:34:12 GMT</lastBuildDate><item><title><![CDATA[Some projects and about me!]]></title><description><![CDATA[
 In this post I will talk about some important projects that I have participated and about me.
 
 ]]></description><link>https://tiagomariinhoo.github.io/devblog//about-my-projects/</link><guid isPermaLink="false">https://tiagomariinhoo.github.io/devblog//about-my-projects/</guid><pubDate>Thu, 17 Oct 2019 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;In this post I will talk about some important projects that I have participated and about me.&lt;/p&gt;
@@ -64,11 +64,11 @@ In this post I will talk about some important projects that I have participated.
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Space&quot;
         title=&quot;&quot;
-        src=&quot;/./tiagoblog/static/space-a36bdd86f732bc910b6582d29adae291-177e4.jpg&quot;
-        srcset=&quot;/./tiagoblog/static/space-a36bdd86f732bc910b6582d29adae291-6c2d5.jpg 175w,
-/./tiagoblog/static/space-a36bdd86f732bc910b6582d29adae291-3d17c.jpg 350w,
-/./tiagoblog/static/space-a36bdd86f732bc910b6582d29adae291-177e4.jpg 700w,
-/./tiagoblog/static/space-a36bdd86f732bc910b6582d29adae291-07d91.jpg 800w&quot;
+        src=&quot;/./devblog/static/space-a36bdd86f732bc910b6582d29adae291-177e4.jpg&quot;
+        srcset=&quot;/./devblog/static/space-a36bdd86f732bc910b6582d29adae291-6c2d5.jpg 175w,
+/./devblog/static/space-a36bdd86f732bc910b6582d29adae291-3d17c.jpg 350w,
+/./devblog/static/space-a36bdd86f732bc910b6582d29adae291-177e4.jpg 700w,
+/./devblog/static/space-a36bdd86f732bc910b6582d29adae291-07d91.jpg 800w&quot;
         sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
       /&gt;
     &lt;/span&gt;
@@ -103,11 +103,11 @@ Teste teste Teste teste Teste teste Teste teste Teste teste Teste teste Teste te
         style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
         alt=&quot;Train Tracks&quot;
         title=&quot;&quot;
-        src=&quot;/./tiagoblog/static/traintrack-a6bff11fd84ef0a7e78d1abedda1165c-177e4.jpg&quot;
-        srcset=&quot;/./tiagoblog/static/traintrack-a6bff11fd84ef0a7e78d1abedda1165c-6c2d5.jpg 175w,
-/./tiagoblog/static/traintrack-a6bff11fd84ef0a7e78d1abedda1165c-3d17c.jpg 350w,
-/./tiagoblog/static/traintrack-a6bff11fd84ef0a7e78d1abedda1165c-177e4.jpg 700w,
-/./tiagoblog/static/traintrack-a6bff11fd84ef0a7e78d1abedda1165c-07d91.jpg 800w&quot;
+        src=&quot;/./devblog/static/traintrack-a6bff11fd84ef0a7e78d1abedda1165c-177e4.jpg&quot;
+        srcset=&quot;/./devblog/static/traintrack-a6bff11fd84ef0a7e78d1abedda1165c-6c2d5.jpg 175w,
+/./devblog/static/traintrack-a6bff11fd84ef0a7e78d1abedda1165c-3d17c.jpg 350w,
+/./devblog/static/traintrack-a6bff11fd84ef0a7e78d1abedda1165c-177e4.jpg 700w,
+/./devblog/static/traintrack-a6bff11fd84ef0a7e78d1abedda1165c-07d91.jpg 800w&quot;
         sizes=&quot;(max-width: 700px) 100vw, 700px&quot;
       /&gt;
     &lt;/span&gt;
